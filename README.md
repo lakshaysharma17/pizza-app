@@ -38,9 +38,9 @@ https://lakshay-pizza-app.netlify.app
 cd pizza-shop
   2.	Open in browser
   #Simply open index.html in your browser
-   Or use a local server:
+  #Or use a local server:
   python -m http.server 8000
-  # Then visit: http://localhost:8000
+  #Then visit: http://localhost:8000
 
   📁 Project Structure
   pizza-shop/
