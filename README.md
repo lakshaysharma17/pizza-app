@@ -1,4 +1,4 @@
-#🍕 Premium Pizza Shop
+ # 🍕 Premium Pizza Shop
   A modern, responsive web application for ordering pizzas online with integrated payment gateway and cart management
   🌟 Features
   
@@ -37,8 +37,8 @@ https://lakshay-pizza-app.netlify.app
  git clone https://github.com/yourusername/pizza-shop.git
 cd pizza-shop
   2.	Open in browser
-  # Simply open index.html in your browser
-  # Or use a local server:
+  #Simply open index.html in your browser
+   Or use a local server:
   python -m http.server 8000
   # Then visit: http://localhost:8000
 
