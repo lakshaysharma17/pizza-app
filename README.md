@@ -1,13 +1,14 @@
-🍕 Premium Pizza Shop
-A modern, responsive web application for ordering pizzas online with integrated payment gateway and cart management.
-🌟 Features
-🛒 Shopping Cart
+#🍕 Premium Pizza Shop
+  A modern, responsive web application for ordering pizzas online with integrated payment gateway and cart management
+  🌟 Features
+  
+  🛒 Shopping Cart
 	•	Add to Cart - Easy one-click pizza ordering
 	•	Remove Items - Delete button (×) for each cart item
 	•	Real-time Total - Dynamic price calculation in Indian Rupees (₹)
 	•	Smart UI Updates - Buttons disable/enable automatically
  
-💳 Payment Integration
+ 💳 Payment Integration
 	•	Razorpay Gateway - Secure payment processing
 	•	Dynamic Amount - Calculates total cart value automatically
 	•	Success Handling - Cart clears after successful payment
